@@ -1,5 +1,6 @@
 E-commerce Backend API
 This project is a robust, scalable e-commerce backend API built with Spring Boot. It offers a RESTful interface for product, customer, and shopping cart management, following a clear layered architecture.
+![image](https://github.com/user-attachments/assets/f3371d39-f9d4-49a1-89ee-319bb721b9c0)
 
 ✨ Features
 This API provides endpoints for:
